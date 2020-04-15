@@ -14,7 +14,7 @@ function Main()
 
   end
 
- if SN == 3 then
+ if SN == 2 then
 
     c()
 
